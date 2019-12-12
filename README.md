@@ -6,7 +6,7 @@ Overview:
 
 •	Imputation
 
-•	Visualization
+•	Visual analysis of some attributes
 
 •	Removing the features which are redundant for prediction
 
